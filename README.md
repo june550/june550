@@ -3,7 +3,7 @@
 - Things i'm interested in & want to learn: Rust, Discord Bots, Minecraft Modding
 - Currently working on: [Juniper](https://github.com/june550/juniper)
 - You can reach me at:
-  - Discord: cy.beria
+  - Discord: junecat.
   - Email: juniper120@proton.me
  
   
