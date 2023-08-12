@@ -1,6 +1,6 @@
 # Hi, I’m June! 🌙
-- Languages I know: Python
-- [My site](https://june.cx/)
+- langs i know: Python
+- [my site](https://june.cx/)
  
 <!---
 june550/june550 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
