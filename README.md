@@ -1,5 +1,5 @@
 # Hi, I’m June! 🌙
-- langs i know: Python
+- langs i know: python
 - [my site](https://june.cx/)
  
 <!---
