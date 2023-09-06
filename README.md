@@ -1,6 +1,4 @@
 # Hi, I’m June! 🌙
-- langs i know: python
-- [my site](https://june.cx/)
  
 <!---
 june550/june550 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
